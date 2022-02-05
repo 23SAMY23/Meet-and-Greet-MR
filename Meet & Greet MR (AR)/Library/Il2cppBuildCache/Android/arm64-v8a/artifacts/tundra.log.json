@@ -1,0 +1,3 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"Il2Cpp E:/FinalProject/Submission/Meet & Greet MR (AR)/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so","index":1}
+{"msg":"noderesult","annotation":"Il2Cpp E:/FinalProject/Submission/Meet & Greet MR (AR)/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so","index":1,"exitcode":0}
