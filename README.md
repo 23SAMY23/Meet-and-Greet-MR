@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr">
+  <a href="https://github.com/23SAMY23/Meet-and-Greet-MR.git">
     <img src="images/Artboard 1.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -59,19 +59,6 @@ This Project has two part one for Virtual Reality and other for Augment Reality 
 
 This is a Media Project for TECHNISCHE UNIVERSITÄT ILMENAU
 
-Members
-
-* Syed Sameer Kazmi (62260)
-* Taimoor Ahmed Khan (60825)
-* Umar Irshad (61389)
-
-Advisor 
-
-* PROF. DR. WOLFGANG BROLL
-
-Supervisor
-* TOBIAS SCHWANDT, M. SC.
-
 
 ### Built With
 
@@ -90,7 +77,7 @@ Augmented Reality Screenshot
 <!-- GETTING STARTED -->
 ## Getting Started
 
-* [AR project](https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr/-/tree/develop/Meet%20%26%20Greet%20MR%20(AR))
+* [AR project](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(VR))
 * [AR andriod apk](https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr/-/tree/develop/Meet%20and%20greet%20MR%20(AR%20Andriod))
 * [VR project](https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr/-/tree/develop/Meet%20%26%20Greet%20MR%20(VR))
 * [VR oculus rift build](https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr/-/tree/develop/meet%20and%20greet%20mr%20(VR%20Oculus%20game))
