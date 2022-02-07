@@ -77,17 +77,17 @@ Augmented Reality Screenshot
 <!-- GETTING STARTED -->
 ## Getting Started
 
-* [AR project](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(VR))
-* [AR andriod apk](https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr/-/tree/develop/Meet%20and%20greet%20MR%20(AR%20Andriod))
-* [VR project](https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr/-/tree/develop/Meet%20%26%20Greet%20MR%20(VR))
-* [VR oculus rift build](https://gitlab.tu-ilmenau.de/FakWM/vwds/teaching/mediaprojects/2021-meet-and-greet-in-mr/-/tree/develop/meet%20and%20greet%20mr%20(VR%20Oculus%20game))
+* [AR project](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(AR))
+* [AR andriod apk](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20and%20greet%20MR%20(AR%20Andriod))
+* [VR project](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(VR))
+* [VR oculus rift build](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/meet%20and%20greet%20mr%20(VR%20Oculus%20game))
 ### Requirments
 
 For Virtual Reality
 * [Oculus Rift Software for Windows](https://www.oculus.com/setup/)
 * Oculus Rift Headset with two controllers
 This project will also work with other VR head set as it uses XR technology 
-for [Htc vive](https://forum.vive.com/topic/9605-unity-htc-vive-openxr-xr-interaction-toolkit-integration-problem/) as value is still working on supporting [XR technology](https://docs.unity3d.com/Manual/XR.html).
+for [HTC vive](https://forum.vive.com/topic/9605-unity-htc-vive-openxr-xr-interaction-toolkit-integration-problem/) as value is still working on supporting [XR technology](https://docs.unity3d.com/Manual/XR.html).
 
 For Augmented Reality
 * Arcore Supported Mobile(e.g Note 10(Tested),S10 S20)
